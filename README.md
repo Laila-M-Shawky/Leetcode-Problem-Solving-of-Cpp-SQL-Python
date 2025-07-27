@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images.png" alt="A photo of a sample project" width="100%">
+</p>
+
 <h1 align="center">ICPC: think💙 create💛 solve❤️</h1>
 <h3 align="center">
 "The biggest mistake I see new programmers make is focusing on learning syntax instead of learning how to solve problems."                 
