@@ -1,3 +1,8 @@
+<h1 align="center">ICPC: think💙 create💛 solve❤️</h1>
+<h3 align="center">
+"The biggest mistake I see new programmers make is focusing on learning syntax instead of learning how to solve problems."                 
+V. Anton Spraul</h3>
+
 <p align="center">
   <table width="100%">
     <tr>
@@ -8,18 +13,18 @@
         <img src="https://media.giphy.com/media/h2BUZKtDQzGDyxNKVg/giphy.gif" width="100%" />
       </td>
       <td width="33%" align="center">
-        <img src="https://giphy.com/gifs/icpc-icpc2017-lmuYZR67WsHckRp5VZ" width="100%" />
+        <img src="Icpc2017 GIF by icpc 3.gif" width="100%" />
       </td>
     </tr>
     <tr>
       <td width="33%" align="center">
-        <img src="https://giphy.com/gifs/icpc-icpc2017-llJ2eMt9lYIYKEGqnv" width="100%" />
+        <img src="Icpc2017 GIF by icpc (1).gif" width="100%" />
+      </td>
+      <td width="33%" align="center"> 
+        <img src="Icpc2017 GIF by icpc.gif" width="100%" />
       </td>
       <td width="33%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5kbG92Z3R4OGFnbWJzNWp1Z2xoeHl5a251MmI2bnB0ZXdkZmR0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" />
-      </td>
-      <td width="33%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd4aTN5emkzb2FpZGFpNXN5OHQ5aWRrbnl0eTFhZzJpM2NncmNxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q55U7t0wH0hW64R5U/giphy.gif" width="100%" />
+        <img src="Icpc2017 GIF by icpc (2).gif" width="100%" />
       </td>
     </tr>
   </table>
